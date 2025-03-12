@@ -1,4 +1,6 @@
 # Prova API
+S'ha afegit el model "subject" amb les accions per realitzar les peticions a través de la API. 
+Realitzat amb el repo fork i amb ajuda del ChatGPT. 
 
 ## Descripció
 Una API bàsica desenvolupada en Node.js amb TypeScript, utilitzant Express i Mongoose per a la gestió de dades en MongoDB. A més, s'inclou documentació amb Swagger.
@@ -44,6 +46,7 @@ http://localhost:9000/api-docs
 ## Dependències de Desenvolupament
 - `typescript`: Suport per a TypeScript.
 - `@types/*`: Definicions de tipus per a biblioteques utilitzades.
+
 
 
 
